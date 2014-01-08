@@ -1597,6 +1597,24 @@
       ]
     },
     {
+      "name": "Doz",
+      "thumb": "doz/thumb.png",
+      "desc": "DOZ platform provides unique content marketing with the best webmarketing experts.",
+      "url": "https://app.doz.com",
+      "submitter": "faouzi",
+      "submissionDate": "2014-01-08",
+      "tags": [
+        "Crowdsourcing",
+        "SEO",
+        "Marketing",
+        "SMO",
+        "API",
+        "PHP",
+        "Responsive"
+      ]
+    },
+
+    {
       "name": "Musik365",
       "thumb": "musik365/thumb.jpg",
       "desc": "Musik365 is free, one click radio that plays music you'll love. Discover new music and enjoy old favorites. Professional DJs created the playlists so you just relax and enjoy the music.",
